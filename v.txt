@@ -1,9 +1,1 @@
-{
-  "apiKey": "AIzaSyBpJEuQzMIrh02kyOJRQB-Vbsy-3pSAvJc",
-  "authDomain": "cloudproject-e1848.firebaseapp.com",
-  "projectId": "cloudproject-e1848",
-  "storageBucket": "cloudproject-e1848.firebasestorage.app",
-  "messagingSenderId": "600085677178",
-  "appId": "1:600085677178:web:084ae0f2a96fe07447a7c3",
-  "measurementId": "G-SNGG8JGM69"
-}
+
